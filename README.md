@@ -4,7 +4,7 @@ Author: [Jiayi Chen](https://github.com/jia-yi-chen)
 
 Time: Oct 2020
 
-Inluded algorithms:
+## Implemented Algorithms:
 
 * **Bandit**:
   - **Multi-arm Bandit**: epsilon-greedy; upper confidence bound (UCB); Thompsom Sampling (TS); Perturbed-history Exploration (PHE)

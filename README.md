@@ -7,11 +7,19 @@ Time: Oct 2020
 ## Implemented Algorithms:
 
 * **Bandit**:
-  - **Multi-arm Bandit**: epsilon-greedy; upper confidence bound (UCB); Thompsom Sampling (TS); Perturbed-history Exploration (PHE)
+  - **Multi-arm Bandit**: 
+    - epsilon-greedy
+    - upper confidence bound (UCB)
+    - Thompsom Sampling (TS)
+    - Perturbed-history Exploration (PHE)
   - **Contextual Linear Bandit**: LinUCB; LinTS; LinPHE
 * **Reinforcement Learning**: 
-  - **Dynamic programming** solution for Markov Decision Process (known environment): value iteration; policy iteration
-  - **Model-free control**: off-policy Monte Carlo (MC) control; off-policy Temporal Difference (TD) control (i.e., Q-learning)
+  - **Dynamic programming** solution for Markov Decision Process (known environment): 
+  	- value iteration
+  	- policy iteration
+  - **Model-free control**: 
+    - off-policy Monte Carlo (MC) control
+    - off-policy Temporal Difference (TD) control (i.e., Q-learning)
 
 ## Requirements
 

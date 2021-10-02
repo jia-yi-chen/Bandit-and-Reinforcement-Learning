@@ -12,7 +12,10 @@ Time: Oct 2020
     - upper confidence bound (UCB)
     - Thompsom Sampling (TS)
     - Perturbed-history Exploration (PHE)
-  - **Contextual Linear Bandit**: LinUCB; LinTS; LinPHE
+  - **Contextual Linear Bandit**: 
+  	- LinUCB
+  	- LinTS
+  	- LinPHE
 * **Reinforcement Learning**: 
   - **Dynamic programming** solution for Markov Decision Process (known environment): 
   	- value iteration

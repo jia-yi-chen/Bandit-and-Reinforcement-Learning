@@ -1,5 +1,5 @@
 """
-Created in Oct 2020
+Created on Oct 13, 2020
 Author: Jiayi Chen
 """
 import numpy as np
